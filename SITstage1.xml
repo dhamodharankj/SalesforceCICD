@@ -5,6 +5,7 @@
         <members>AfterSales_SaveProductLineItem</members>
         <members>AfterSales_SearchProductLineItem</members>
         <name>CustomLabel</name>
+        <name>CustomLabe2</name>
     </types>
     <version>49.0</version>
 </Package>
